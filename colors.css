@@ -1,0 +1,42 @@
+/* COLORS & LINK COLORS
+----------------------------------------------------------------------------------------------------*/
+
+.white, a.white, a.white:link, a.white:active, a.white:visited , a.white:hover{
+  color: #FFFFFF;
+}
+
+.black, a.black, a.black:link, a.black:active, a.black:visited , a.black:hover{
+  color: #000000;
+}
+
+.light-grey, a.light-grey, a.light-grey:link, a.light-grey:active, a.light-grey:visited , a.light-grey:hover{
+  color: #d0d0d0;
+}
+
+.grey, a.grey, a.grey:link, a.grey:active, a.grey:visited , a.grey:hover{
+  color: #acabab;
+}
+
+.dark-grey, a.dark-grey, a.dark-grey:link, a.dark-grey:active, a.dark-grey:visited , a.dark-grey:hover{
+  color: #696969;
+}
+
+.green, a.green, a.green:link, a.green:active, a.green:visited , a.green:hover{
+  color: #1ee163;
+}
+
+.orange, a.orange, a.orange:link, a.orange:active, a.orange:visited , a.orange:hover{
+  color: #e8511a;
+}
+
+.purple, a.purple, a.purple:link, a.purple:active, a.purple:visited , a.purple:hover{
+  color: #8724c8;
+}
+
+.red, a.red, a.red:link, a.red:active, a.red:visited , a.red:hover{
+  color: #de3839;
+}
+
+.yellow, a.yellow, a.yellow:link, a.yellow:active, a.yellow:visited , a.yellow:hover{
+  color: #ffd400;
+}

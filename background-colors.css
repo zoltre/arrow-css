@@ -1,0 +1,42 @@
+/* BACKGROUND background-colorS
+----------------------------------------------------------------------------------------------------*/
+
+.bg-white{
+  background-color: #FFFFFF;
+}
+
+.bg-black{
+  background-color: #000000;
+}
+
+.bg-light-grey{
+  background-color: #d0d0d0;
+}
+
+.bg-grey{
+  background-color: #acabab;
+}
+
+.bg-dark-grey{
+  background-color: #696969;
+}
+
+.bg-green{
+  background-color: #1ee163;
+}
+
+.bg-orange{
+  background-color: #e8511a;
+}
+
+.bg-purple{
+  background-color: #8724c8;
+}
+
+.bg-red{
+  background-color: #de3839;
+}
+
+.bg-yellow{
+  background-color: #ffd400;
+}
